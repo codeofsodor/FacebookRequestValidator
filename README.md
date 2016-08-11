@@ -5,7 +5,8 @@ A basic Java class for validating signed requests Facebook sends to your applica
 ## Code Example
 
 FacebookRequestValidator fbr = new FacebookRequestValidator();
-boolean result = fbr.requestIsValid(<signedRequest>, <your secret key>);
+boolean result = fbr.requestIsValid(signedRequest, your secret key);
+
 ## Motivation
 
 Couldn't find anything quickly which did this so just created it.
