@@ -1,4 +1,4 @@
-Synopsis
+## Synopsis
 
 A basic Java class for validating signed requests Facebook sends to your application (login with Facebook, Graph requests and so forth).
 
